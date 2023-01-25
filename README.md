@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Im Ilya
+Not a regular user vayu with Mediatek snapdragon dimensity 860 and tb-x705L
+like woa, linux on arm
+trying port to tb-x705L pmos
 
-<!--
-**nedokaka/nedokaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: fastboot erase aboot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning inglish 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/nedokaka)  
+

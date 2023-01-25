@@ -1,7 +1,7 @@
 ### Hi there 👋, Im Ilya
-Not a regular user vayu with Mediatek snapdragon dimensity 860 and tb-x705L
-like woa, linux on arm
-trying port to tb-x705L pmos
+Not a regular user vayu with Mediatek snapdragon dimensity 860 and tb-x705L    
+like woa, linux on arm    
+trying port to tb-x705L pmos    
 
 
 Skills: fastboot erase aboot
